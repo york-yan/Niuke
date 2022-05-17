@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\3-计算机学习资料\2-项目\牛客模拟\牛客模拟\main.cpp(47): warning C4717: “GetChar”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  牛客模拟.vcxproj -> F:\3-计算机学习资料\2-项目\牛客模拟\x64\Debug\牛客模拟.exe
+  牛客模拟.vcxproj -> F:\3-计算机学习资料\2-项目\牛客模拟\x64\Debug\牛客模拟.pdb (Partial PDB)
